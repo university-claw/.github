@@ -59,8 +59,4 @@
 
 <sub>© 2025 Team UNICLAW · 명지대학교 컴퓨터공학과 2026-1 캡스톤디자인</sub>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:e2142d,50:ff4757,100:ff6b81&height=120&section=footer&reversal=true" width="100%"/>
-
 </div>
